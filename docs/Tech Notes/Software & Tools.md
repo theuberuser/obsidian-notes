@@ -1,0 +1,12 @@
+
+- [zsh-vi-man](https://github.com/TunaCuma/zsh-vi-man) - **Smart man page lookup for zsh vi mode**
+- [fzf - A command-line fuzzy finder](https://github.com/junegunn/fzf)
+- https://github.com/gianlucam76/k8s-cleaner
+- https://saiyam1814.github.io/k8s-game/
+- https://github.com/GoogleCloudPlatform/kubectl-ai
+- https://github.com/k8sgpt-ai/k8sgpt
+- [sipcalc - Advanced IP calculator](https://github.com/sii/sipcalc)
+- [kuba - The magical kubectl companion with fzf, fx, aliases, new output formats, and more!](https://github.com/hcgatewood/kuba)
+- [sysmenu - Interactive systemd service manager CLI script using fzf, gum, and bat](https://github.com/marcs-sus/sysmenu/tree/master)
+- [[Docker]]
+- 
