@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkobsidian_notes=globalThis.webpackChunkobsidian_notes||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/obsidian-notes/blog","blogTitle":"Blog","authorsListPath":"/obsidian-notes/blog/authors"}')}}]);

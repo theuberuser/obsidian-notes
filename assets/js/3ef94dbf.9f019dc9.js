@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkobsidian_notes=globalThis.webpackChunkobsidian_notes||[]).push([[6840],{3059(o){o.exports=JSON.parse('{"metadata":{"permalink":"/obsidian-notes/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
