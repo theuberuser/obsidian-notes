@@ -270,16 +270,3 @@ dmesg | grep -i xfs
 |Packet drops|Network saturation|
 
 ---
-
-If you want, I can:
-
-- Turn this into a **PDF / printable version**
-    
-- Create a **night-shift ultra-minimal checklist**
-    
-- Add a **“what to alert on” section mapped to USE**
-    
-- Add **example incident scenarios** per resource
-    
-
-Just tell me which one you want next.
