@@ -1,6 +1,6 @@
 ---
-title: IT / Tech / Programming / DevOps
-sidebar_label: IT / Tech / Programming / DevOps
+title: IT
+sidebar_label: IT
 ---
 
 - [Linux Performance](http://www.brendangregg.com/linuxperf.html)
