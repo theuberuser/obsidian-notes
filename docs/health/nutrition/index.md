@@ -1,0 +1,39 @@
+---
+title: Nutrition
+sidebar_label: Nutrition
+---
+
+# Nutrition
+
+- [Kidney Stones and Your Diet - if-nfs-kidney-stones-and-your-diet.pdf](https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-kidney-stones-and-your-diet.pdf)
+- [Sodium: How to tame your salt habit - Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/sodium/art-20045479)
+- [nutritionals.14841ea6d15764c94dd896afffdb2452.pdf](https://www.pizzahut.ca/order/pdfs/ca/en/nutritionals.14841ea6d15764c94dd896afffdb2452.pdf)
+- [5 Ways to Add Flavor Without Adding More Salt | Kitchn](https://www.thekitchn.com/5-ways-to-add-flavor-without-adding-more-salt-250250)
+- [Vitamins and Minerals - HelpGuide.org](https://www.helpguide.org/harvard/vitamins-and-minerals.htm)
+- [Recommended Daily Intakes and Upper Limits for Vitamins and Minerals](https://www.consumerlab.com/RDAs/All/Adult/#rdatable)
+- [myhealthrecords](https://myhealth.alberta.ca/myhealthrecords)
+- [Vitamins and Minerals - vitamins-and-minerals.htm](https://www.helpguide.org/harvard/vitamins-and-minerals.htm?pdf=14953)
+- [Making Sense of Vitamins and Minerals - Harvard Health](https://www.health.harvard.edu/special-health-reports/vitamins-and-minerals-choosing-the-nutrients-you-need-to-stay-healthy)
+- [Canada's Food Guide](https://food-guide.canada.ca/en/)
+- [A Consumer's Guide to the DRIs (Dietary Reference Intakes) - Canada.ca](https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/consumer-guide-dris-dietary-reference-intakes.html)
+- [Questions and Answers - Canada.ca](https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/questions-answers.html)
+- [Dietary Reference Intakes - Canada.ca - Vitamins](https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-vitamins-dietary-reference-intakes-tables-2005.html)
+- [Dietary Reference Intakes - Canada.ca - Macronutrients](https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-macronutrients-dietary-reference-intakes-tables-2005.html)
+- [Dietary Reference Intakes - Canada.ca - Elements](https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-elements-dietary-reference-intakes-tables-2005.html)
+- [Nutrition science and research - Canada.ca](https://www.canada.ca/en/health-canada/services/nutrition-science-research.html)
+- [Food and nutrition - Canada.ca](https://www.canada.ca/en/services/health/food-nutrition.html)
+- [Canada’s Dietary Guidelines – Canada’s Food Guide](https://food-guide.canada.ca/en/guidelines/)
+- [13 Essential Vitamins—And How to Get Enough of Them in Your Diet](https://www.readersdigest.ca/health/healthy-living/13-essential-vitamins-your-body-needs-stay-healthy/)
+- [Vitamins: Their Functions and Sources | HealthLink BC](https://www.healthlinkbc.ca/health-topics/ta3868)
+- [Nutritional_Information_April_2016.pdf](https://www.smittys.ca/files/galleries/Nutritional_Information_April_2016.pdf)
+- [Fibre Facts - if-nfs-fibre-facts (3).pdf](file:///Users/kevin/Downloads/if-nfs-fibre-facts%20(3).pdf)
+- [Popeyes - Nutrition Information](https://www.popeyes.com/nutritional-information)
+- [The Effects of Protein Deficiency](https://www.verywellfit.com/what-are-the-effects-of-protein-deficiency-4160404)
+- [How to Calculate How Much Protein You Need](https://www.verywellfit.com/how-to-calculate-how-much-protein-you-need-3955709)
+- [The 3 Macronutrients Your Body Needs Most](https://www.verywellfit.com/macronutrients-2242006)
+- [Why Higher Consumption of Protein Requires More Water](https://www.verywellfit.com/high-protein-diets-cause-dehydration-3120674)
+- [How Much Water Should You Drink if You Consume Protein Powders? | Livestrong.com](https://www.livestrong.com/article/553946-how-much-water-should-you-drink-if-you-consume-protein-powders/)
+- [21 Day Habit Timeline: How to Form a Habit in 21 Days (Day by Day!) | by Elias Scully | The Startup | Medium](https://medium.com/swlh/21-day-habit-timeline-how-to-form-a-habit-in-21-days-day-by-day-92298446bf6b)
+- [Potassium (K) in Blood](https://myhealth.alberta.ca/health/tests-treatments/pages/conditions.aspx?hwId=hw202677)
+- [Anemia](https://myhealth.alberta.ca/health/pages/conditions.aspx?hwid=sta123235&lang=en-ca#sta123235-sec)
+- [Top 10 Health Benefits of Flax Seeds](https://www.healthline.com/nutrition/benefits-of-flaxseeds#TOC_TITLE_HDR_12)

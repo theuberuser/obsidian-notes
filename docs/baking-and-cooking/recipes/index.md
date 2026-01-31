@@ -1,0 +1,42 @@
+---
+title: Recipes
+sidebar_label: Recipes
+---
+
+# Recipes
+
+- [Minted Moroccan Chicken Wraps - Instant Pot Recipes](https://recipes.instantpot.com/recipe/minted-moroccan-chicken-wraps/)
+- [Southern BBQ Chicken - Instant Pot Recipes](https://recipes.instantpot.com/recipe/southern-bbq-chicken/)
+- [Lemon Herb Chicken - Instant Pot Recipes](https://recipes.instantpot.com/recipe/lemon-herb-chicken/)
+- [Garlic Parmesan Chicken - Instant Pot Recipes](https://recipes.instantpot.com/recipe/garlic-parmesan-chicken/)
+- [Chicken Shawarma - Instant Pot Recipes](https://recipes.instantpot.com/recipe/chicken-shawarma/)
+- [48 Delicious Crepe Fillings That Will Rule Your Sunday Brunch!](https://www.diys.com/delicious-crepe-fillings/)
+- [Crepes Recipe (How to Make Crepes and Crepe Filling Ideas) - House of Nash Eats](https://houseofnasheats.com/crepes-recipe/)
+- [Cream Cheese Crepe Filling (4 ingredients!) - I Heart Naptime](https://www.iheartnaptime.net/crepe-filling/)
+- [Best Lemonade Ever | Allrecipes](https://www.allrecipes.com/recipe/32385/best-lemonade-ever/)
+- [(33) How to Tell if Your Fruits and Vegetables Have Gone Bad - YouTube](https://www.youtube.com/watch?v=nWDugs7N2pI)
+- [Old fashioned Shortbread Cookies - simple buttery perfection.](https://www.rockrecipes.com/old-fashioned-shortbread-cookies/)
+- [Classic Peanut Butter Cookies - Printer Friendly - Allrecipes.com](https://www.allrecipes.com/recipe/10275/classic-peanut-butter-cookies)
+- [50 Instant Pot Christmas Recipes | Tested by Amy + Jacky](https://www.pressurecookrecipes.com/50-instant-pot-christmas-recipes/)
+- [Butter Chicken | KFI Sauces](https://kfisauces.com/recipes/butter-chicken/)
+- [Honey Garlic Glazed Salmon (20 min. recipe!) - The Chunky Chef](https://www.thechunkychef.com/honey-garlic-glazed-salmon/)
+- [The Best Salmon Recipes - 45+ Salmon Recipes](https://www.delish.com/cooking/g2039/salmon-recipes/)
+- [Best Cajun Parmesan Salmon Recipe - How to Make Cajun Parmesan Salmon](https://www.delish.com/cooking/recipe-ideas/recipes/a54432/cajun-parmesan-salmon-recipe/)
+- [Instant Pot Short Ribs | A Mind "Full" Mom](https://amindfullmom.com/instant-pot-short-ribs/#recipe)
+- [Homemade Bread Recipe - Tastes Better from Scratch](https://tastesbetterfromscratch.com/bread-recipe/)
+- [Spicy Crispy Chicken Cutlet – COSORI](https://cosori.com/blogs/recipes/spicy-crispy-chicken-cutlet-1)
+- [Slow Cooker Hot Honey Chicken Sandwiches](https://crayonsandcravings.com/slow-cooker-hot-honey-chicken-sandwiches/#wprm-recipe-container-59504)
+- [3 Ingredient Peanut Butter Cheerio Bars - the kind of cook recipe](https://justrecettes.com/3-ingredient-peanut-butter-cheerio-bars/)
+- [Cheeseburger Macaroni Recipe (My kids favorite meal!)](https://www.sixsistersstuff.com/recipe/cheeseburger-macaroni-my-kids-favorite/#wprm-recipe-container-86235)
+- [Butter Tart Squares - Just so Tasty](https://www.justsotasty.com/butter-tart-squares/)
+- [Sausage Tortellini Alfredo | Easy Pasta Dinner Recipe | Weeknight Meal](https://www.lifeloveandsugar.com/sausage-tortellini-alfredo/)
+- [Slow Cooker Hot Honey Chicken Sandwiches](https://crayonsandcravings.com/slow-cooker-hot-honey-chicken-sandwiches/)
+- [Cheeseburger Macaroni Recipe (My kids favorite meal!)](https://www.sixsistersstuff.com/recipe/cheeseburger-macaroni-my-kids-favorite/)
+- [Rock Recipes - The Best Food & Photos from my family kitchen in St. John\'s, Newfoundland - over 1800 fantastic family friendly home cooking and baking recipes for everyday life. From quick and easy weekday dinners to Slow cooked Sundays, indulgent desserts and new entertaining ideas, Rock Recipes is your one stop place to get all the cooking and baking inspiration you need.](https://www.rockrecipes.com/)
+- [Classic Peanut Butter Cookies Recipe](https://www.allrecipes.com/recipe/10275/classic-peanut-butter-cookies/)
+- [My Favorite Peanut Butter Cookies – Delicious](https://meals.lantidoto.com/2023/06/15/my-favorite-peanut-butter-cookies/)
+- [Instant Pot Curry Chicken and Rice - easy instant pot dinners](https://easyinstantpotdinners.com/instant-pot-curry-chicken/)
+- [Instant Pot Chicken Noodle Soup Recipe - easy instant pot dinners](https://easyinstantpotdinners.com/instant-pot-chicken-noodle-soup-recipe/)
+- [Instant Pot Bang Bang Chicken Pasta - easy instant pot dinners](https://easyinstantpotdinners.com/instant-pot-bang-bang-chicken/)
+- [(1336) Ashley . The Recipe Rebel - YouTube](https://www.youtube.com/@TheRecipeRebel/videos)
+- [(1336) Well Plated - YouTube](https://www.youtube.com/@WellPlated/videos)
