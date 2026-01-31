@@ -1,23 +1,15 @@
 #!/bin/bash
 
-OBSIDAN_VAULT="$HOME/Documents/Obsidian Vault"
-
-# List of directories within the Obsidian vault to sync
-SYNC_DIRS=(
-  "Tech Notes"
-)
-
-for DIR in "${SYNC_DIRS[@]}"; do
-  echo "Syncing Obsidian notes in directory: $DIR"
-  rsync -av "$OBSIDAN_VAULT/$DIR" "./docs/"
-  echo "Committing and pushing changes to GitHub..."
-  git add "docs/$DIR"
-  if ! git commit -m "Sync '$DIR' Obsidian notes" &>/dev/null; then
-    echo "No changes to commit for '$DIR'."
-  else
-    git push origin main
-  fi
-done
+DOCS_ROOT="$HOME/Documents/Obsidian Vault/Docusaurus"
+echo "Rsyncing Obsidian notes to Docusaurus docs directory..."
+rsync -av -n "$DOCS_ROOT/" "./docs/"
+echo "Pushing changes to GitHub repository..."
+git add "docs/$DIR"
+if ! git commit -m "Notes synced from Obsidian" &>/dev/null; then
+  echo "No changes to commit."
+else
+  git push origin main
+fi
 
 echo "Building and deploying Docusaurus site..."
 npm run build
