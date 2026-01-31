@@ -5,6 +5,10 @@ sidebar_label: Japanese
 
 # Japanese
 
+- [Takashii - SPEAK BASIC JAPANESE IN 15 DAYS](https://takashii.shop/products/speak-basic-japanese-in-15-days)
+- [Sayaka - Nihogo Dekita](https://nihongodekita.com/)
+- [Kaname's Japanese](https://kaname.me/)
+- [Karen Shidahara - Lofi Japanese](https://www.youtube.com/@LofiJapaneseOfficial)
 - [Learn how to Ganbaru in Japanese! - Go! Go! Nihon](https://gogonihon.com/en/blog/learn-how-to-ganbaru/)
 - [How to Say Sister in Japanese: Oneesan vs Ane vs Imouto - Team Japanese](https://teamjapanese.com/sister-in-japanese/)
 - [8 Ways To Say "I'm Sorry" in the Japanese Language](https://voyapon.com/japanese-culture-apologizing/)
