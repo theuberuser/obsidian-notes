@@ -2,7 +2,7 @@
 
 DOCS_ROOT="$HOME/Documents/Obsidian Vault/Docusaurus"
 echo "Rsyncing Obsidian notes to Docusaurus docs directory..."
-rsync -av -n "$DOCS_ROOT/" "./docs/"
+rsync -av "$DOCS_ROOT/" "./docs/"
 echo "Pushing changes to GitHub repository..."
 git add "docs/$DIR"
 if ! git commit -m "Notes synced from Obsidian" &>/dev/null; then
