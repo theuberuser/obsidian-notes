@@ -1,2 +1,13 @@
 - [Docker Made Easy - An Interactive Tutorial on Learning How Docker Works](https://www.reddit.com/r/docker/comments/1qbu8pp/docker_made_easy_an_interactive_tutorial_on/)
 - 
+- [Docker Cheat Sheet - 36 Docker CLI Commands](https://spacelift.io/blog/docker-commands-cheat-sheet)
+- [Helm](https://helm.sh/)
+- [Security best practices | Docker Docs](https://docs.docker.com/develop/security-best-practices/)
+- [General best practices for writing Dockerfiles | Docker Docs](https://docs.docker.com/develop/develop-images/guidelines/)
+- [Multi-stage builds | Docker Docs](https://docs.docker.com/build/building/multi-stage/)
+- [Helm | Using Helm](https://helm.sh/docs/intro/using_helm/)
+- [Best practices for Dockerfile instructions | Docker Docs](https://docs.docker.com/develop/develop-images/instructions/)
+- [What is Container Orchestration? - Container Orchestration Explained - AWS](https://aws.amazon.com/what-is/container-orchestration/)
+- [How to Reduce Docker Image Size: 6 Optimization Methods](https://devopscube.com/reduce-docker-image-size/?ref=dailydev)
+- [Best practices | Docker Docs](https://docs.docker.com/build/building/best-practices/)
+- [Dockerfile reference | Docker Docs](https://docs.docker.com/reference/dockerfile/)

@@ -1,0 +1,43 @@
+---
+title: Home Buying
+sidebar_label: Home Buying
+---
+
+# Home Buying
+
+- [First Time Home Buyer Alberta Down Payment » HomeHow Mortgage](https://homehow.ca/first-time-home-buyers/first-time-home-buyer-alberta-down-payment/)
+- [Mortgage Payment Calculator | Calculate Mortgage in Calgary, Alberta » HomeHow Mortgage](https://homehow.ca/mortgage-payment-calculator/mortgage-payment-calculator/)
+- [Homebuying Step by Step: Your Guide to Buying a Home in Canada - homebuying-step-by-step-guide-en.pdf](https://assets.cmhc-schl.gc.ca/sites/cmhc/consumers/buying-a-home/homebuying-step-by-step-guide/homebuying-step-by-step-guide-en.pdf?rev=37af6dbf-580a-4de8-aba9-353eba4c022f)
+- [Radon: Testing your home - Canada.ca](https://www.canada.ca/en/health-canada/services/health-risks-safety/radiation/radon/testing-your-home.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_radon)
+- [CREA | Home](https://www.crea.ca/)
+- [Canada Mortgage and Housing Corporation | CMHC](https://www.cmhc-schl.gc.ca/)
+- [Homebuying calculators | CMHC](https://www.cmhc-schl.gc.ca/consumers/home-buying/calculators)
+- [Affordability Calculator | CMHC](https://www.cmhc-schl.gc.ca/consumers/home-buying/calculators/affordability-calculator)
+- [How to Shop Around for a Mortgage Lender | TD Bank Lending Tips](https://www.td.com/us/en/personal-banking/how-to-pick-the-right-mortgage-and-lender)
+- [Mortgage Calculator | CMHC](https://www.cmhc-schl.gc.ca/consumers/home-buying/calculators/mortgage-calculator)
+- [Homebuying Step by Step: Workbook and Checklists | CMHC](https://www.cmhc-schl.gc.ca/consumers/home-buying/buying-guides/home-buying/homebuying-step-by-step-workbook-and-checklists)
+- [Government of Canada Homebuyer Incentives and Rebates](https://www.cmhc-schl.gc.ca/consumers/home-buying/government-of-canada-programs-to-support-homebuyers)
+- [Mortgage And Home Lending Process - What To Expect | TD Bank](https://www.td.com/us/en/personal-banking/learning-home-lending/understanding-the-mortgage)
+- [Interest on mortgages - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/mortgages/interest-on-mortgages.html)
+- [Interest rates posted for selected products by the major chartered banks - Bank of Canada](https://www.bankofcanada.ca/rates/banking-and-financial-statistics/posted-interest-rates-offered-by-chartered-banks/)
+- [Mortgage terms and amortization - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/mortgages/mortgage-terms-amortization.html)
+- [Mortgage Calculator - Canada.ca](https://itools-ioutils.fcac-acfc.gc.ca/MC-CH/MCCalc-CHCalc-eng.aspx)
+- [Choosing a mortgage that is right for you - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/mortgages/choose-mortgage.html)
+- [Mortgage fees: Prepayment penalties - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/mortgages/reduce-prepayment-penalties.html)
+- [Real estate fraud - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/real-estate-fraud.html)
+- [Mortgage Fraud: What You Need to Know | CMHC](https://www.cmhc-schl.gc.ca/consumers/owning-a-home/mortgage-management/mortgage-fraud)
+- [Buying a home - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/buying-home.html)
+- [How much you need for a down payment - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/mortgages/down-payment.html)
+- [Renewing your mortgage - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/mortgages/renew-mortgage.html)
+- [Optional mortgage insurance products - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/mortgages/optional-insurance-products.html)
+- [Credit or loan insurance - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/insurance/credit-loan.html)
+- [www.newzip.com](https://www.newzip.com/blog/when-should-you-contact-a-realtor-to-buy-a-house)
+- [Why you need a realtor when selling your home - MLS Listing Realtor](https://findcalgaryhome.ca/why-you-need-a-realtor-when-selling-your-home/)
+- [What Happens to Your Mortgage When You Sell Your Home? | Zolo](https://www.zolo.ca/blog/what-happens-to-your-mortgage)
+- [ELI5: If you sell your home more than you paid, and before paying off the mortgage, how do you get paid and how much? : r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/usx34x/eli5_if_you_sell_your_home_more_than_you_paid_and/)
+- [How Long Is the Home Buying Process](https://www.newzip.com/blog/how-long-is-the-home-buying-process)
+- [REALTORS® in Calgary, AB - Real Estate Agents | REALTOR.ca](https://www.realtor.ca/realtors/ab/calgary)
+- [Best CALGARY AGENTS. Top Rated Reviews, Jul 2024](https://www.rate-my-agent.com/Calgary-AB-Agent-Ratings)
+- [Choosing a REALTOR®](https://www.albertarealtor.ca/page/choosing-a-realtor)
+- [Mortgages - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/mortgages.html)
+- [Preparing to get a mortgage - Canada.ca](https://www.canada.ca/en/financial-consumer-agency/services/mortgages/preparing-mortgage.html)

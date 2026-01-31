@@ -1,4 +1,11 @@
-
 - https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst
 - [ClaudeStrike - AI-Powered Pentesting Assistant with MCP Integration for Kali Linux](https://github.com/ChrisBurkett/ClaudeStrike)
 - [Hack The Box (HTB) certifications](https://academy.hackthebox.com/preview/certifications)
+- [Talkback - A smart infosec resource aggregator](https://talkback.sh/)
+- [Where do you get your news? Breaches, Threat Reports, how do y'all stay informed? : cybersecurity](https://www.reddit.com/r/cybersecurity/comments/1aq0wdu/where_do_you_get_your_news_breaches_threat/?%24deep_link=true&correlation_id=975f7005-08d4-4837-914b-05f25095cd67&post_fullname=t3_1aq0wdu&post_index=5&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=1272422466672513341&utm_medium=Email%20Amazon%20SES&_branch_referrer=H4sIAAAAAAAAA22Q3W7DIAyFnya7S5uGpGknVdOkaa9hUXASVP4GRlnffmbddjUJxOE7OrZhJYr5eb9PqLWhnYxxZ42%2F7UV8afpBxAuCzE8sQzKL8dJCSfay1lQjXpv%2Bnde2bbufvAqOQeKt7ldMGVVJhu71HpxDT5nlQX50my41uWJC0AHuocCCVM8EHrcM14RSrZiBVlZUOwluNmjECHXERrxRKtj0RxVSQivJBA9GMz9P4zx13dh2Jz20w0lM7fkwXNtunPuxO49KHyfOxZAJ5mKtlw5rOQF%2Foz1M4zV%2BsjMySDizQieNBW0WzPSAoKSL0iz%2BfzfzixT%2BegwLOVDBE38G0%2B82ZMjiF2M7lwWKAQAA)
+- [Everything InfoSec / Cybersecurity | allinfosecnews.com](https://allinfosecnews.com/)
+- [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
+- [Content Security Policy - An Introduction](https://scotthelme.co.uk/content-security-policy-an-introduction/)
+- [CSP Cheat Sheet](https://scotthelme.co.uk/csp-cheat-sheet/)
+- [HSTS Cheat Sheet](https://scotthelme.co.uk/hsts-cheat-sheet/)
+- [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
