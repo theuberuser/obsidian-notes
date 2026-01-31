@@ -3,8 +3,6 @@ title: IT / Tech / Programming / DevOps
 sidebar_label: IT / Tech / Programming / DevOps
 ---
 
-# IT / Tech / Programming / DevOps
-
 - [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 - [(710) Intro to Object Oriented Programming - Crash Course - YouTube](https://www.youtube.com/watch?v=SiBw7os-_zI)
 - [The Ultimate Code Kata](https://blog.codinghorror.com/the-ultimate-code-kata/)
