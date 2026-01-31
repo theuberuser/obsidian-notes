@@ -37,3 +37,5 @@ sidebar_label: Nutrition
 - [Potassium (K) in Blood](https://myhealth.alberta.ca/health/tests-treatments/pages/conditions.aspx?hwId=hw202677)
 - [Anemia](https://myhealth.alberta.ca/health/pages/conditions.aspx?hwid=sta123235&lang=en-ca#sta123235-sec)
 - [Top 10 Health Benefits of Flax Seeds](https://www.healthline.com/nutrition/benefits-of-flaxseeds#TOC_TITLE_HDR_12)
+- [Understanding the Low FODMAP Diet: Foods, Phases and Tips for Managing IBS](https://cdhf.ca/en/understanding-the-fodmap-diet/)
+- [Understanding FODMAPs PDF](https://cdhf.ca/wp-content/uploads/2022/11/Understanding-Fodmaps.pdf)
