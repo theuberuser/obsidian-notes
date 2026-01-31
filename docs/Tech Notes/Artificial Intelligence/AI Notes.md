@@ -3,8 +3,6 @@
 * Large Language Models (LLMs)
 - https://context7.com
 
-## Anthropic
-
 - [Anthropic courses](https://anthropic.skilljar.com/)
 - [What is ChatGPT, DALL-E, and generative AI? | McKinsey](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai)
 - [Introduction to Generative AI Learning Path (Google Cloud Skills Boost)](https://www.cloudskillsboost.google/paths/118)
