@@ -47,5 +47,3 @@ sidebar_label: Suicide Bereavement & Prevention
 - [American Foundation for Suicide Prevention (AFSP)](https://afsp.org/)
 - [Alliance of Hope For Suicide Loss Survivors | Home](https://allianceofhope.org/)
 - [Resources_SOSLD24.pdf](https://www.suicideinfo.ca/wp-content/uploads/2024/11/Resources_SOSLD24.pdf)
-- [Costco Canada - Home](https://sameday.costco.ca/store)
-- [Costco Delivery Near Me | Costco Canada](https://sameday.costco.ca/store/costco-canada/storefront)
