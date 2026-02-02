@@ -29,3 +29,7 @@
 - [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Unlocking the Power of COSTAR Prompt Engineering: A Guide and Example on converting goals into system of actionable items | by Frugal Zentennial | Medium](https://medium.com/@frugalzentennial/unlocking-the-power-of-costar-prompt-engineering-a-guide-and-example-on-converting-goals-into-dc5751ce9875)
 - [What Is Retrieval-Augmented Generation aka RAG | NVIDIA Blogs](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
+- [Cisco AI Defense (GitHub)](https://github.com/cisco-ai-defense)
+- [Cisco AI Defense Skill Scanner - Security Scanner for Agent Skills (GitHub)](https://github.com/cisco-ai-defense/skill-scanner)
+- [OpenClaw - An open source personal AI assistant](https://openclaw.ai/)
+- [OpenClaw (GitHub)](https://github.com/openclaw/openclaw)

@@ -1,0 +1,4 @@
+- [Canadian Internet Registration Authority (CIRA)](https://www.cira.ca/)
+- [CIRA - The domain name life cycle](https://www.cira.ca/en/ca-domains/register-your-ca/domain-name-life-cycle/)
+- [CIRA - To Be Released Domains list](https://www.cira.ca/en/ca-domains/tbr/)
+- 
