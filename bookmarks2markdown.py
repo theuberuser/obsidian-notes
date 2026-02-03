@@ -197,9 +197,8 @@ def main():
         sys.exit(1)
 
     bookmarks_file = sys.argv[1]
-
-    output_dir = '/Users/kevin/obsidian-notes/docs'
-    
+    homedir = os.environ['HOME']
+    output_dir = os.path.join(homedir, 'obsidian-notes', 'docs', 'Bookmarks')
     print(f"Reading bookmarks from: {bookmarks_file}")
     
     with open(bookmarks_file, 'r', encoding='utf-8') as f:
