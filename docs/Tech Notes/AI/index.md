@@ -1,8 +1,14 @@
-- Generative AI
-- Large Language Models (LLMs)
-
-* https://context7.com
-
+---
+title: AI
+sidebar: AI
+---
+* [Context7 - Up-to-date Docs for LLMs and AI code editors](https://context7.com)
+- [Agent Skills - Overview](https://agentskills.io/home)
+- [Agent Skills - What are skills?](https://agentskills.io/what-are-skills)
+- [Agent Skills - Specification](https://agentskills.io/specification)
+- [Agent Skills - Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices)
+- [Anthropic - Public Repository for Agent Skills with examples](https://github.com/anthropics/skills/tree/main)
+- [OpenAI - Agent Skills catalog for Codex](https://github.com/openai/skills)
 * [Anthropic courses](https://anthropic.skilljar.com/)
 * [What is ChatGPT, DALL-E, and generative AI? | McKinsey](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai)
 * [Introduction to Generative AI Learning Path (Google Cloud Skills Boost)](https://www.cloudskillsboost.google/paths/118)
