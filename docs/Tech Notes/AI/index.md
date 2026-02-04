@@ -3,6 +3,7 @@ title: AI
 sidebar: AI
 ---
 * [Context7 - Up-to-date Docs for LLMs and AI code editors](https://context7.com)
+* [DeepWiki - AI Auto generated documentation for any GitHub repository](https://deepwiki.com/)
 - [Agent Skills - Overview](https://agentskills.io/home)
 - [Agent Skills - What are skills?](https://agentskills.io/what-are-skills)
 - [Agent Skills - Specification](https://agentskills.io/specification)
