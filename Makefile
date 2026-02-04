@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-DOCS_ROOT ?= $(HOME)/Documents/Obsidian\ Vault/Docusaurus
+DOCS_ROOT ?= "$(HOME)/Documents/Obsidian\ Vault/Docusaurus"
 
 .PHONY: sync git build deploy serve
 
