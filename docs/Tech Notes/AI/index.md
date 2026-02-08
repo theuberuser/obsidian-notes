@@ -2,6 +2,13 @@
 title: AI
 sidebar: AI
 ---
+* [The Complete Guide to CLAUDE.md](https://www.builder.io/blog/claude-md-guide)
+* [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+* https://contextarena.ai/
+* [Andrej Karpathy: [1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+* [LLM Attacks](https://llm-attacks.org)
+* [OWASP Top 100 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+* [Skills.sh - Install skills for agents with a single command](https://skills.sh/)
 * [Context7 - Up-to-date Docs for LLMs and AI code editors](https://context7.com)
 * [DeepWiki - AI Auto generated documentation for any GitHub repository](https://deepwiki.com/)
 - [Agent Skills - Overview](https://agentskills.io/home)
