@@ -2,7 +2,10 @@
 title: AI
 sidebar: AI
 ---
+* [IBM: What is a context window?](https://www.ibm.com/think/topics/context-window)
+* [HuggingFace: The Tokenizer Playground](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
 * [The Complete Guide to CLAUDE.md](https://www.builder.io/blog/claude-md-guide)
+* [Lee Boonstra - Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view?usp=sharing)
 * [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 * https://contextarena.ai/
 * [Andrej Karpathy: [1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
