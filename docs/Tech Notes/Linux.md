@@ -1,3 +1,5 @@
+- [Linux stat Command with Examples](https://phoenixnap.com/kb/linux-stat)
+- [Bash until Loop](https://linuxize.com/post/bash-until-loop/)
 - [An introduction to Pluggable Authentication Modules (PAM) in Linux](https://www.redhat.com/en/blog/pluggable-authentication-modules-pam)
 - [Securing Applications on Linux with PAM](https://www.linuxjournal.com/article/5940)
 - [The USE Method](https://www.brendangregg.com/usemethod.html)

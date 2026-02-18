@@ -3,6 +3,7 @@ title: Kubernetes
 sidebar_label: Kubernetes
 ---
 
+- [How do Containers Communicate via localhost in a Kubernetes Pod?](https://adil.medium.com/how-do-containers-communicate-via-localhost-in-a-kubernetes-pod-d9e193844b9d)
 - [My Kubernetes Lab Git Repo](https://github.com/theuberuser/kubernetes-lab)
 - [Declarative Management of Kubernetes Objects Using Kustomize](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/)
 - [Kustomize reference docs](https://kubectl.docs.kubernetes.io/references/kustomize/)
