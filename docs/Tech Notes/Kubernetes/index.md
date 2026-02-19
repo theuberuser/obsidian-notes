@@ -3,6 +3,9 @@ title: Kubernetes
 sidebar_label: Kubernetes
 ---
 
+- [VibeOps: A Secure read-only setup for AI-Assisted Kubernetes (k8s) Debugging](https://simon-frey.com/blog/vibeops-kubernetes/)
+- [KubeDiagrams](https://github.com/philippemerle/KubeDiagrams)
+- [KubeDiagrams Web Service](https://kubediagrams.lille.inria.fr/)
 - [How do Containers Communicate via localhost in a Kubernetes Pod?](https://adil.medium.com/how-do-containers-communicate-via-localhost-in-a-kubernetes-pod-d9e193844b9d)
 - [My Kubernetes Lab Git Repo](https://github.com/theuberuser/kubernetes-lab)
 - [Declarative Management of Kubernetes Objects Using Kustomize](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/)
