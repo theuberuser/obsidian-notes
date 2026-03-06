@@ -2,7 +2,9 @@
 title: Kubernetes
 sidebar_label: Kubernetes
 ---
-
+- [Kubectl Quick Reference](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Kubernetes the Very Hard Way](https://labs.iximiuz.com/courses/kubernetes-the-very-hard-way-0cbfd997)
 - [VibeOps: A Secure read-only setup for AI-Assisted Kubernetes (k8s) Debugging](https://simon-frey.com/blog/vibeops-kubernetes/)
 - [KubeDiagrams](https://github.com/philippemerle/KubeDiagrams)
 - [KubeDiagrams Web Service](https://kubediagrams.lille.inria.fr/)

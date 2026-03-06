@@ -5,6 +5,7 @@ sidebar_label: Baking & Cooking
 
 # Baking & Cooking
 
+- [Sally's Baking: Cookies & Cream Cookies](https://sallysbakingaddiction.com/cookies-n-cream-cookies/)
 - [Instant Pot Chicken | How to Cook Fresh or Frozen Breasts or Thighs](https://www.wellplated.com/instant-pot-chicken/)
 - [Teriyaki Chicken Thighs - Instant Pot Recipes](https://recipes.instantpot.com/recipe/teriyaki-chicken-thighs/)
 - [Instant Pot Chicken Biryani - Ministry of Curry](https://ministryofcurry.com/chicken-biryani-instant-pot/)
