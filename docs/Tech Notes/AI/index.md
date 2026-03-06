@@ -6,7 +6,7 @@ sidebar: AI
 * [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
 * [ClawHub: repo for AgentSkills](https://github.com/zeroclaw-labs/zeroclaw)
 * [ZeroClaw: fast, ultra-lightweight AI assistant written in Rust](https://github.com/zeroclaw-labs/zeroclaw)
-* [CreativeCron.ai] (https://creativecron.ai/)
+* [CreativeCron.ai](https://creativecron.ai/)
 * [Declawed - AI Security Engine](https://declawed.ai/)
 * [IBM: What is a context window?](https://www.ibm.com/think/topics/context-window)
 * [HuggingFace: The Tokenizer Playground](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
