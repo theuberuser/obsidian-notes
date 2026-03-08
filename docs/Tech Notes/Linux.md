@@ -1,3 +1,4 @@
+- [SSH, The Secure Shell: The Definitive Guide, 2nd edition](https://github.com/manish-old/ebooks-2/blob/master/O%27Reilly%20-%20SSH%20The%20Secure%20Shell%20The%20Definitive%20Guide-2.pdf)
 - [Linux stat Command with Examples](https://phoenixnap.com/kb/linux-stat)
 - [Bash until Loop](https://linuxize.com/post/bash-until-loop/)
 - [An introduction to Pluggable Authentication Modules (PAM) in Linux](https://www.redhat.com/en/blog/pluggable-authentication-modules-pam)
