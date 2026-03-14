@@ -2,6 +2,8 @@
 title: AI
 sidebar: AI
 ---
+* [LLM Leaderboard - Comparison of over 100 AI models from OpenAI, Google, DeepSeek & others](https://artificialanalysis.ai/leaderboards/models)
+* [Agent Skills Overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 * [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)
 * [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
 * [ClawHub: repo for AgentSkills](https://github.com/zeroclaw-labs/zeroclaw)
