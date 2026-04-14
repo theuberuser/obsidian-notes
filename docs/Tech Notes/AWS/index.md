@@ -3,6 +3,7 @@ title: AWS
 sidebar: AWS
 ---
 
+- [Agent Plugins for AWS](https://github.com/awslabs/agent-plugins)
 - [Amazon EC2 Instance Comparison by Vantage](https://instances.vantage.sh)
 - [AWS Builder Center: Workshops](https://builder.aws.com/build/workshops?trk=84f5932b-9761-4834-82c1-70f5d2dc1357)
 - [AWS Certification Paths](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/pdfs/AWS_certification_paths.pdf?sc_channel=sm&sc_campaign=Support&sc_publisher=REDDIT&sc_country=global&sc_geo=GLOBAL&sc_outcome=AWS%20Support&sc_content=Support&trk=Support&linkId=882669097)

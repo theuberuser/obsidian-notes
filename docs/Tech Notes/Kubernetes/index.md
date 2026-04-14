@@ -23,6 +23,7 @@ sidebar_label: Kubernetes
 - [Killercoda Interactive Environments](https://killercoda.com/playgrounds/scenario/kubernetes)
 - [Organizing Cluster Access Using kubeconfig Files | Kubernetes](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/)
 - [Krew – kubectl plugin manager](https://krew.sigs.k8s.io/)
+- [krew kubectl plugins](https://krew.sigs.k8s.io/plugins/)
 - [Extend kubectl with plugins | Kubernetes](https://kubernetes.io/docs/tasks/extend-kubectl/kubectl-plugins/)
 - [Daemonset Vs Deployment | Zeet.co](https://zeet.co/blog/kubernetes-daemonset-vs-deployment)
 - [Deployments | Kubernetes](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)

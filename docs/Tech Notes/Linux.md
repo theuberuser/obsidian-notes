@@ -1,3 +1,4 @@
+- [The Linux Command Line 7th Edition by William Shotts](https://psychz.dl.sourceforge.net/project/linuxcommand/TLCL/25.12/TLCL-25.12.pdf?viasf=1)
 - [SSH, The Secure Shell: The Definitive Guide, 2nd edition](https://github.com/manish-old/ebooks-2/blob/master/O%27Reilly%20-%20SSH%20The%20Secure%20Shell%20The%20Definitive%20Guide-2.pdf)
 - [Linux stat Command with Examples](https://phoenixnap.com/kb/linux-stat)
 - [Bash until Loop](https://linuxize.com/post/bash-until-loop/)

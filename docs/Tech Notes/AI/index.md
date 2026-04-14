@@ -2,6 +2,8 @@
 title: AI
 sidebar: AI
 ---
+
+* [Awesome GitHub Copilot - Community-contributed agents, instructions, and skills to enhance your GitHub Copilot experience](https://awesome-copilot.github.com/)
 * [LLM Leaderboard - Comparison of over 100 AI models from OpenAI, Google, DeepSeek & others](https://artificialanalysis.ai/leaderboards/models)
 * [Agent Skills Overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 * [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)

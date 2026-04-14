@@ -14,11 +14,16 @@ https://www.reddit.com/r/CKAExam/
 
 - [Kubernetes Fundamentals (LFS258)](https://trainingportal.linuxfoundation.org/learn/course/kubernetes-fundamentals-lfs258)
 - [Certified Kubernetes Administrator Exam](https://trainingportal.linuxfoundation.org/learn/course/certified-kubernetes-administrator-cka/exam/exam)
-
-
-kubectl commands:
+- [[Steps to create a Kubernetes cluster]]
+## kubectl command reference
 
 ```
+kubectl create token <service_account>
+# Attaches a new ephemeral debian container inside existing pod for troubleshooting (available in Kubernetes v1.6+)
+kubectl debug <buggypod> --image=debian
+# Attach to shell after creating ephemeral container
+kubectl debug buggypod --image=debian --attach
+kubectl auth can-i <action> <resource> --as=<user>
 kubectl scale <resource type> <name> --replicas=N
 kubectl replace -f <file> --force
 kubectl expose deployment <name>
