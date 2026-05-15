@@ -3,6 +3,7 @@ title: AI
 sidebar: AI
 ---
 
+* [What AI Agent Skills Are and How They Work](https://www.youtube.com/watch?v=Lg-meK5IU8Q)
 * [Awesome GitHub Copilot - Community-contributed agents, instructions, and skills to enhance your GitHub Copilot experience](https://awesome-copilot.github.com/)
 * [LLM Leaderboard - Comparison of over 100 AI models from OpenAI, Google, DeepSeek & others](https://artificialanalysis.ai/leaderboards/models)
 * [Agent Skills Overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)

@@ -5,6 +5,10 @@ sidebar_label: PKI and TLS
 
 # PKI and TLS
 
+- [CA certificates extracted from Mozilla](https://curl.se/docs/caextract.html)
+- [mk-ca-bundle - convert Mozilla's certificate bundle to PEM format](https://curl.se/docs/mk-ca-bundle.html)
+- [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/online/)
+- [Bulletproof TLS Guide](https://www.feistyduck.com/library/bulletproof-tls-guide/online/)
 - [DigiCert Services API | dev.digicert.com](https://dev.digicert.com/services-api/)
 - [DigiCert Status](https://status.digicert.com/)
 - [Manage certificates | docs.digicert.com](https://docs.digicert.com/manage-certificates/)

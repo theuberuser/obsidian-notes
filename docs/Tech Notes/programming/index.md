@@ -2,7 +2,7 @@
 title: Programming
 sidebar_label: Programming
 ---
-
+- [USBORNE INTRODUCTION TO MACHINE CODE FOR BEGINNERS by Lisa Watts and Mike Wharton](https://yurichev.com/mirrors/machine-code-for-beginners.pdf)
 - [A Taxonomy of Yak Shaving. Yak Shaving is: doing… | by Jessica Kerr | The Composition | Medium](https://medium.com/the-composition/a-taxonomy-of-yak-shaving-102da591308b)
 - [Yak Shaving](https://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2000-02-11.html)
 - [regex101: build, test, and debug regex](https://regex101.com/)

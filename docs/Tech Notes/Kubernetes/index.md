@@ -2,6 +2,7 @@
 title: Kubernetes
 sidebar_label: Kubernetes
 ---
+- [What happens inside the Kubernetes API server?](https://learnkube.com/kubernetes-api-explained)
 - [Kubectl Quick Reference](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
 - [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Kubernetes the Very Hard Way](https://labs.iximiuz.com/courses/kubernetes-the-very-hard-way-0cbfd997)
